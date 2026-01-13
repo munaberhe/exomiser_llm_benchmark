@@ -1,0 +1,12 @@
+case_id,rank,disease
+1,1,"Cornelia de Lange syndrome"
+1,2,"Rett syndrome"
+2,2,"Ataxia-telangiectasia"
+2,1,"Marfan syndrome"
+3,1,"Duchenne muscular dystrophy"
+3,2,"Ataxia-telangiectasia"
+4,3,"Marfan syndrome"
+4,1,"Rett syndrome"
+5,1,"Rett syndrome"
+5,2,"Cornelia de Lange syndrome"
+

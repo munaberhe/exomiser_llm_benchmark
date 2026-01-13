@@ -1,0 +1,7 @@
+case_id,phenotypes,true_disease
+1,"short stature, intellectual disability, limb abnormalities, distinctive facial features","Cornelia de Lange syndrome"
+2,"progressive ataxia, nystagmus, oculomotor apraxia, immunodeficiency","Ataxia-telangiectasia"
+3,"progressive muscle weakness, delayed walking, high creatine kinase","Duchenne muscular dystrophy"
+4,"tall stature, long limbs, lens dislocation, aortic aneurysm","Marfan syndrome"
+5,"developmental regression in girl, loss of purposeful hand use, stereotypic hand movements","Rett syndrome"
+
