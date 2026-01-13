@@ -1,0 +1,26 @@
+case_id,rank,disease
+1,1,Turner syndrome
+1,2,Noonan syndrome
+1,3,Williams syndrome
+1,4,Rubinstein-Taybi syndrome
+1,5,Cornelia de Lange syndrome
+2,1,Ataxia-telangiectasia
+2,2,Aicardi-Goutières syndrome
+2,3,Chédiak-Higashi syndrome
+2,4,Nijmegen breakage syndrome
+2,5,Fanconi anemia
+3,1,Duchenne Muscular Dystrophy
+3,2,Becker Muscular Dystrophy
+3,3,Limb-Girdle Muscular Dystrophy
+3,4,Myotonic Dystrophy
+3,5,Congenital Muscular Dystrophy
+4,1,Marfan syndrome
+4,2,Ehlers-Danlos syndrome (hypermobile type)
+4,3,Loeys-Dietz syndrome
+4,4,Homocystinuria
+4,5,Stickler syndrome
+5,1,Rett Syndrome
+5,2,Angelman Syndrome
+5,3,MECP2 Duplication Syndrome
+5,4,CDKL5 Deficiency Disorder
+5,5,Autism Spectrum Disorder (with regression)
